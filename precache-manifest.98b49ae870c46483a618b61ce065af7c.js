@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/7.6f3fe4d6.css"
   },
   {
-    "revision": "41fd6aac4e69db8d317f",
+    "revision": "a825f771bacc7341b252",
     "url": "/css/app.aee11447.css"
   },
   {
@@ -72,7 +72,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/prysprymobile.955a1256.jpg"
   },
   {
-    "revision": "94530b1a268dff62b12523eba235f9e0",
+    "revision": "297621f538e80cdd32edd5b5cffa42bb",
     "url": "/index.html"
   },
   {
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/0.f5bc27b7.js"
   },
   {
-    "revision": "fdab82c83f10bf403357",
-    "url": "/js/10.fdab82c8.js"
+    "revision": "c712c9cb4b4a0990a85a",
+    "url": "/js/10.c712c9cb.js"
   },
   {
     "revision": "1fc78908ffee22d2d854",
@@ -132,8 +132,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/9.342882f8.js"
   },
   {
-    "revision": "41fd6aac4e69db8d317f",
-    "url": "/js/app.7ca19445.js"
+    "revision": "a825f771bacc7341b252",
+    "url": "/js/app.4295b9a7.js"
   },
   {
     "revision": "771154002e182582b125",
@@ -154,6 +154,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "445ed362f33656ea2ce2560ebbe079ae",
     "url": "/statics/Priyono Santosa Resume (Updated 2019).pdf"
+  },
+  {
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "/statics/admin/config.yaml"
+  },
+  {
+    "revision": "96c2a5d74e54ee5989deb805dd07d4f4",
+    "url": "/statics/admin/index.html"
   },
   {
     "revision": "eaad1a063804cab6bf088a279ccecbe0",
